@@ -1,1 +1,1 @@
-# Implement Basic Data Structures and Algorithms with Python
+# Basic Data Structures and Algorithms Implemented with Python
