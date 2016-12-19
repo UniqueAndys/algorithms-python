@@ -1,0 +1,2 @@
+# Introduction
+介绍在实现数据结构和算法时所用到的python的特性，同时区分了一下python2和3的一些不同之处
