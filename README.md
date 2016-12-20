@@ -6,3 +6,4 @@
 - basic data structures 一些基本的数据结构，包括栈，队列，链表，散列表
 - trees 树的一些基础算法，包括二叉树，二叉搜索树，AVL树
 - sorting 基本的排序算法
+- dynamic programming 动态规划算法
