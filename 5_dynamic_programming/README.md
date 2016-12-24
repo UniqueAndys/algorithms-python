@@ -9,3 +9,4 @@
 
 目录结构
 - assembly line 装配线调度问题
+- matrix chain multiplication 矩阵链乘法
