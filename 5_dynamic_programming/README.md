@@ -8,5 +8,5 @@
 - 由计算出的结果构造一个最优解
 
 目录结构
-- assembly line 装配线调度问题
-- matrix chain multiplication 矩阵链乘法
+- [assembly line](./1_assembly_line.ipynb) 装配线调度问题
+- [matrix chain multiplication](./2_matrix_chain_multiplication.ipynb) 矩阵链乘法
